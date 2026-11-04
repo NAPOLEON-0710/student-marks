@@ -17,3 +17,4 @@ if mark1 >= 35 and mark2 >= 35 and mark3 >= 35:
 else:    
      print("Result: FAIL") 
             
+print("Thank you for using Student Marks Management") 
